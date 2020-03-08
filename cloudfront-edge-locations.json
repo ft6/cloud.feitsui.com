@@ -47,6 +47,11 @@
       "city": "São Paulo",
       "airport": "São Paulo International Airport"
     },
+    "SOF": {
+      "country": "Bulgaria",
+      "city": "Sofia",
+      "airport": "Sofia Airport"
+    },
     "YUL": {
       "country": "Canada",
       "city": "Montréal, QC",
@@ -246,11 +251,6 @@
       "country": "Singapore",
       "city": "Singapore",
       "airport": "Singapore Changi Airport"
-    },
-    "SOF": {
-      "country": "Sofia Airport",
-      "city": "Sofia",
-      "airport": "Bulgaria"
     },
     "CPT": {
       "country": "South Africa",
