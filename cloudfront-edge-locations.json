@@ -142,6 +142,11 @@
       "city": "Frankfurt",
       "airport": "Frankfurt am Main Airport"
     },
+    "HAM": {
+      "country": "Germany",
+      "city": "Hamburg",
+      "airport": "Hamburg Airport"
+    },
     "MUC": {
       "country": "Germany",
       "city": "Munich",
