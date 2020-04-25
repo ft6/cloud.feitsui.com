@@ -1,6 +1,6 @@
 {
   "self": "https://cdn.jsdelivr.net/gh/ft6/cloud.feitsui.com/cloudfront-edge-locations.json",
-  "source": "https://www.feitsui.com/en/blog/page/3",
+  "source": "https://www.feitsui.com/en/article/3",
   "nodes": {
     "EZE": {
       "country": "Argentina",
