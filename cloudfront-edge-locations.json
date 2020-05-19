@@ -177,6 +177,11 @@
       "city": "Hyderabad",
       "airport": "Rajiv Gandhi International Airport"
     },
+    "CCU": {
+      "country": "India",
+      "city": "Kolkata",
+      "airport": "Netaji Subhas Chandra Bose International Airport"
+    },
     "BOM": {
       "country": "India",
       "city": "Mumbai",
