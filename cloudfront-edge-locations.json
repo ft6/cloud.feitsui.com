@@ -232,6 +232,16 @@
       "city": "Kuala Lumpur",
       "airport": "Kuala Lumpur International Airport"
     },
+    "QRO": {
+      "country": "Mexico",
+      "city": "Querétaro",
+      "airport": "Querétaro Intercontinental Airport"
+    },
+    "AKL": {
+      "country": "New Zealand",
+      "city": "Auckland",
+      "airport": "Auckland Airport"
+    },
     "OSL": {
       "country": "Norway",
       "city": "Oslo",
