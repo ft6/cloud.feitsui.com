@@ -1,2 +1,2 @@
 - [[HTML] AWS CloudFront Edge Locations](https://www.feitsui.com/en/article/3)
-- [[JSON] AWS CloudFront Edge Locations](https://cdn.jsdelivr.net/gh/ft6/cloud.feitsui.com/cloudfront-edge-locations.json)
+- [[JSON] AWS CloudFront Edge Locations](https://www.cloudping.cloud/cloudfront-edge-locations.json)
