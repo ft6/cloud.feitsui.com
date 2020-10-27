@@ -312,6 +312,11 @@
       "city": "Zürich",
       "airport": "Zürich Airport"
     },
+    "BKK": {
+      "country": "Thailand",
+      "city": "Bangkok",
+      "airport": "Suvarnabhumi Airport"
+    },
     "AMS": {
       "country": "The Netherlands",
       "city": "Amsterdam",
