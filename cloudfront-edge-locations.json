@@ -202,6 +202,11 @@
       "city": "New Delhi",
       "airport": "Indira Gandhi International Airport"
     },
+    "CGK": {
+      "country": "Indonesia",
+      "city": "Jakarta",
+      "airport": "Soekarno-Hatta International Airport"
+    },
     "DUB": {
       "country": "Ireland",
       "city": "Dublin",
@@ -226,6 +231,11 @@
       "country": "Italy",
       "city": "Rome",
       "airport": "Rome-Fiumicino International Airport"
+    },
+    "KIX": {
+      "country": "Japan",
+      "city": "Osaka",
+      "airport": "Kansai International Airport"
     },
     "NRT": {
       "country": "Japan",
