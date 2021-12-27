@@ -37,6 +37,11 @@
       "city": "Brussels",
       "airport": "Brussels Airport"
     },
+    "FOR": {
+      "country": "Brazil",
+      "city": "Fortaleza",
+      "airport": "Fortaleza-Pinto Martins International Airport"
+    },
     "GIG": {
       "country": "Brazil",
       "city": "Rio de Janeiro",
@@ -257,6 +262,11 @@
       "city": "Querétaro",
       "airport": "Querétaro Intercontinental Airport"
     },
+    "AMS": {
+      "country": "Netherlands",
+      "city": "Amsterdam",
+      "airport": "Amsterdam Airport Schiphol"
+    },
     "AKL": {
       "country": "New Zealand",
       "city": "Auckland",
@@ -326,11 +336,6 @@
       "country": "Thailand",
       "city": "Bangkok",
       "airport": "Suvarnabhumi Airport"
-    },
-    "AMS": {
-      "country": "The Netherlands",
-      "city": "Amsterdam",
-      "airport": "Amsterdam Airport Schiphol"
     },
     "DXB": {
       "country": "United Arab Emirates",
